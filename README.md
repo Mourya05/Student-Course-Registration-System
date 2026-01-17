@@ -2,3 +2,5 @@
 The `Student_Course_Registration_System` is a Java console-based application that simulates a university course registration platform. It utilizes the concepts of **Object-Oriented Programming (OOP)** by defining `Student` and `Course` classes, which represent students and courses respectively. Additionally, the `DataBase` class is used to manage and store the information. 
 
 The system allows students to register for courses (subject to capacity limits), drop courses, and view available courses or registered students. The administrator can initialize predefined courses and students, view the full list of registrations, and check availability. It features a menu-driven interface, making it interactive and user-friendly. This program effectively demonstrates OOP principles like encapsulation, polymorphism, and collections (`ArrayList`, `HashMap`), and provides a functional use case for managing course registration efficiently.
+
+<!-- copilot-tick 2026-01-17T04:57:00.661Z -->
